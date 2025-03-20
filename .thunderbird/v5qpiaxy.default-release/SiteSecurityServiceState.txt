@@ -1,0 +1,2 @@
+autoconfig.thunderbird.net:HSTS	0	19985	1758312708818,1,0
+start.thunderbird.net^partitionKey=%28http%2Cthunderbird.net%29:HSTS	0	19985	1758312704014,1,0

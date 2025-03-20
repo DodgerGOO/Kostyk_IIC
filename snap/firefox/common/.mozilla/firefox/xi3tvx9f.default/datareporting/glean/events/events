@@ -1,0 +1,2 @@
+{"timestamp":276755,"category":"perf","name":"page_load","extra":{"load_time":"27761","load_type":"NORMAL","fcp_time":"21613","js_exec_time":"2851","response_time":"3687"}}
+{"timestamp":1222294,"category":"perf","name":"page_load","extra":{"fcp_time":"0","load_time":"2604","load_type":"RELOAD","js_exec_time":"985","response_time":"165"}}
