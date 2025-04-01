@@ -1,0 +1,266 @@
+[33mcommit 6858e61b0f523d71e23407b6bc7ac47d0e22367e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mdev[m[33m)[m
+Merge: 9cae9ad 261b8f2
+Author: Beniamin Marcu <marqbeniamin@yahoo.com>
+Date:   Wed Jun 26 14:16:34 2024 +0300
+
+    Merge pull request #109 from Virgil993/master
+    
+    Deploy on Genezio
+
+[33mcommit 261b8f2ebf2f6974de8c90dcdd81c8f56c4be669[m
+Author: Virgil993 <turcu.virgil@gmail.com>
+Date:   Wed Jun 26 13:46:00 2024 +0300
+
+    Create genezio.yaml
+
+[33mcommit 9cae9ad2d02e2cf5f9e75958c1e3c90a337c50a7[m
+Merge: 573a192 9b65ace
+Author: Sajad Ahmad Nawabi <nawabisajadahmad@gmail.com>
+Date:   Tue Jan 10 12:19:53 2023 +0430
+
+    Merge pull request #102 from maisamaf/feature/v1.0.1
+    
+    feature/v1.0.1
+
+[33mcommit 9b65ace2850b47e906572d96127dc38536cc1416[m
+Author: sajadevo <nawabisajadahmad@gmail.com>
+Date:   Tue Jan 10 12:18:13 2023 +0430
+
+    ready for release
+
+[33mcommit 615bafcd179bd5140f9623fe40713c964dd9131f[m
+Author: Maisam Afshar <maisam.afshar@gmail.com>
+Date:   Wed Dec 14 09:30:23 2022 +0430
+
+    fix linting issues
+
+[33mcommit be71fe03022d1897ce266e1f08e89359eed3e004[m
+Author: Maisam Afshar <maisam.afshar@gmail.com>
+Date:   Wed Dec 14 09:30:04 2022 +0430
+
+    update: dependencies, devDependencies
+
+[33mcommit 38975f5b40073bb011671af4fa72b1d8352d9589[m
+Author: Maisam Afshar <maisam.afshar@gmail.com>
+Date:   Wed Dec 14 09:28:01 2022 +0430
+
+    add rules
+
+[33mcommit 78ea524035613fc235f263b65409270cd6758f33[m
+Author: Maisam Afshar <maisam.afshar@gmail.com>
+Date:   Wed Dec 14 09:27:53 2022 +0430
+
+    ignore yarn.lock & package-lock.json
+
+[33mcommit 573a192a6ebc62cc839325e21d8ad4e6be0b757e[m
+Author: Beniamin Marcu <marqbeniamin@yahoo.com>
+Date:   Mon Dec 7 12:11:47 2020 +0200
+
+    Readme Update: Deleted Creative Tim Cyber Monday Limited Offer
+
+[33mcommit 491fd6bf623aed9689776679d04bcb881f815d89[m
+Author: Beniamin Marcu <marqbeniamin@yahoo.com>
+Date:   Mon Nov 30 10:19:41 2020 +0200
+
+    Readme Update: Added Creative Tim Cyber Monday Limited Offer
+
+[33mcommit fd99d157b3caf3d33d4c8d6af939cc4ef6a93f42[m
+Author: Beniamin Marcu <marqbeniamin@yahoo.com>
+Date:   Mon Nov 30 10:12:09 2020 +0200
+
+    Readme Update: Delete Creative Tim Black Friday Limited Offer
+
+[33mcommit 412360b267f15c3987ba0a763f23fb96fafb5d06[m
+Author: Beniamin Marcu <marqbeniamin@yahoo.com>
+Date:   Mon Nov 23 16:50:33 2020 +0200
+
+    Readme Update: added Creative Tim Black Friday Limited Offer
+
+[33mcommit f56f61ecaaa5e1650d72a99fdfa1cef68cc0d987[m
+Author: Alex Paduraru <alex@creative-tim.com>
+Date:   Mon Nov 9 16:16:50 2020 +0200
+
+    Fix License Link
+
+[33mcommit 2895f589f9e4f2949a60190b9c53ef8fc4a92edf[m
+Author: Alex Paduraru <alex@creative-tim.com>
+Date:   Mon Nov 9 16:15:34 2020 +0200
+
+    Update LICENSE.md
+
+[33mcommit e07b71df032fba7f817a40e4c5289e70c273c49e[m
+Author: dragosct <17456857+dragosct10@users.noreply.github.com>
+Date:   Wed Jun 10 17:02:55 2020 +0300
+
+    Create ISSUE_TEMPLATE.md
+
+[33mcommit e0c1e4bf9c942d8c9460ef8e2a915c8e2195e5ff[m
+Author: dragosct <17456857+dragosct10@users.noreply.github.com>
+Date:   Wed Jun 10 17:02:19 2020 +0300
+
+    Create main.yml
+
+[33mcommit 3a4e1735dda05f336b0c365797a5287f75914417[m
+Author: cristij <joracristi@gmail.com>
+Date:   Sun Aug 18 13:52:12 2019 +0300
+
+    Update some packages, add copyright comments
+
+[33mcommit d6a2893c8d669fd02d54c57a13feb58645771f22[m
+Merge: 39b7e9c a0f3e7a
+Author: Cristi Jora <joracristi@gmail.com>
+Date:   Mon May 20 14:13:54 2019 +0300
+
+    Merge pull request #54 from diomed/patch-1
+    
+    adds firstName
+
+[33mcommit 39b7e9c5fb8e9d5e030a5ffb31c966ee7fb75302[m
+Author: Cristi Jora <joracristi@gmail.com>
+Date:   Mon May 20 14:13:33 2019 +0300
+
+    Update package.json
+
+[33mcommit 5fdd73d1ab7c97c8a3e2370694a95fe5269afaf4[m
+Merge: 77eeaf1 60d3341
+Author: Cristi Jora <joracristi@gmail.com>
+Date:   Mon May 20 14:13:11 2019 +0300
+
+    Merge pull request #53 from leeniu/master
+    
+    Added "vue-template-compiler" to package.json because of build error
+
+[33mcommit a0f3e7a0711b082caabdaf3eebe9ccc0b8802f63[m
+Author: May Kittens Devour Your Soul <yoshimitsu002@gmail.com>
+Date:   Mon Nov 12 12:10:34 2018 +0100
+
+    Update EditProfileForm.vue
+
+[33mcommit 4d4b239b2610bc549469c5980c68521d6dce3fda[m
+Author: May Kittens Devour Your Soul <yoshimitsu002@gmail.com>
+Date:   Sat Nov 10 18:52:43 2018 +0100
+
+    adds firstName
+    
+    somehow forgotten
+
+[33mcommit 60d3341f1c429127897c0c49d7eff15e754e4d40[m
+Author: Malik Dirim <leeniu@users.noreply.github.com>
+Date:   Wed Oct 17 19:05:09 2018 +0200
+
+    Added vue-template compiler because of build error
+    
+    Ran `npm run dev`.
+    Got `Error: Cannot find module 'vue-template-compiler/package.json'`
+    
+    Ran `npm i --save-dev vue-template-compiler`
+    Script worked
+
+[33mcommit 77eeaf1f888be4f4046d763ad57fdc91467b961c[m
+Merge: 46875c2 c201edc
+Author: Cristi Jora <joracristi@gmail.com>
+Date:   Sun Oct 7 13:47:16 2018 +0300
+
+    Merge pull request #51 from Christhofernatalius/table-card-tfoot-padding
+    
+    added padding card table tfoot first & last child
+
+[33mcommit c201edccc3bbc4f894c32c1824cca50ab82d28a6[m
+Author: Christhofer Natalius <christhofer@gradin.co.id>
+Date:   Sat Oct 6 23:53:20 2018 +0700
+
+    added padding card table tfoot first & last child
+
+[33mcommit 46875c29e9544b091c79ea9fbcf3eb01393e5dd5[m
+Author: Cristi Jora <joracristi@gmail.com>
+Date:   Mon May 7 09:39:05 2018 +0300
+
+    Update README.md
+
+[33mcommit 1103b8e2365d957438ad2a168db9e16150d2d0a6[m
+Merge: e23f208 7463b77
+Author: Cristi Jora <joracristi@gmail.com>
+Date:   Mon May 7 09:38:48 2018 +0300
+
+    Merge pull request #39 from luisDanielRoviraContreras/patch-1
+    
+    Change in README.md
+
+[33mcommit 7463b77940e1f678dba0803d8d8d2d43a36d4556[m
+Author: ldrovira <31676496+luisDanielRoviraContreras@users.noreply.github.com>
+Date:   Sun May 6 18:20:18 2018 -0400
+
+    Change in README.md
+
+[33mcommit e23f2082ec32ded055d8cc3c901a45fa35bc4179[m
+Author: Cristi Jora <joracristi@gmail.com>
+Date:   Sat Apr 28 23:54:15 2018 +0300
+
+    Update README.md
+
+[33mcommit 3cf13e8f7f1b3f4c9860556be585e455181fbaf0[m
+Author: cristij <joracristi@gmail.com>
+Date:   Sat Apr 28 23:49:21 2018 +0300
+
+    Adjust readme
+
+[33mcommit ee6e5847581b61241f78dcf55f8c20b094462062[m
+Author: cristij <joracristi@gmail.com>
+Date:   Sat Apr 28 23:41:26 2018 +0300
+
+    Remove Chartist as global import (SSR fix)
+
+[33mcommit 62571e148de7011bfe320e103b579492dd3429a5[m
+Merge: f2750e9 09d0a16
+Author: Cristi Jora <joracristi@gmail.com>
+Date:   Sat Apr 28 23:31:01 2018 +0300
+
+    Merge pull request #37 from cristijora/bs4-update
+    
+    Bootstrap 4 update
+
+[33mcommit 09d0a1619d5c139be11350c5456ccc550f00d6ec[m
+Merge: a6dcb6f f2750e9
+Author: cristij <joracristi@gmail.com>
+Date:   Sat Apr 28 23:30:09 2018 +0300
+
+    Merge branch 'master' of https://github.com/cristijora/vue-paper-dashboard into bs4-update
+    
+    # Conflicts:
+    #       src/components/UIComponents/Dropdown.vue
+    #       src/components/UIComponents/Inputs/formGroupInput.vue
+    #       src/components/UIComponents/NotificationPlugin/Notifications.vue
+
+[33mcommit a6dcb6f4b1f5d15ad36d80404b9e0cacf08c030e[m
+Author: cristij <joracristi@gmail.com>
+Date:   Sat Apr 28 23:22:57 2018 +0300
+
+    Update for button, dropdown, fgInput and table
+
+[33mcommit 26e25037309e297086d8e1ca3a7e77a99b8a42aa[m
+Author: cristij <joracristi@gmail.com>
+Date:   Sat Apr 28 18:43:58 2018 +0300
+
+    Encapsulate sidebar intro wrapper class
+
+[33mcommit 1cc07a2957b2e4be2bad0bf85fc0c9eac84acadd[m
+Author: cristij <joracristi@gmail.com>
+Date:   Sat Apr 28 18:04:21 2018 +0300
+
+    Fix moving arrow
+
+[33mcommit 3899ebb771c86bae9f227d9b4c0c46f07e5286c5[m
+Author: cristij <joracristi@gmail.com>
+Date:   Sat Apr 28 17:15:45 2018 +0300
+
+    Minor improvements for navbar links
+    Extract sidebar title as prop
+
+[33mcommit db6302152ec15198bf9907e216fd292200389ca7[m
+Author: cristij <joracristi@gmail.com>
+Date:   Sat Apr 28 16:42:00 2018 +0300
+
+    Cleanup debuggers
+
+[33mcommit e5221e8385e55b18b7f5e15924c6a8dcdcec6a17[m
+Author: cristi
