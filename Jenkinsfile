@@ -15,7 +15,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 echo '🔹 Клонування репозиторію...'
-                git branch: 'main', url: 'https://github.com/DodgerGOO/Kostyk_IIC'
+                git branch: 'master', url: 'https://github.com/DodgerGOO/Kostyk_IIC'
             }
         }
 
