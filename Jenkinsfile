@@ -4,7 +4,7 @@ pipeline {
     environment {
         IMAGE = "dodgergo/vue-dashboard"
         DOCKER_CREDENTIALS = credentials('dockerhub-creds')
-        NODEJS_TOOL = 'Node16' // Оновлено на Node16
+        NODEJS_TOOL = 'Node18' // Оновлено на Node16
     }
 
     tools {
