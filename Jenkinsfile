@@ -57,7 +57,7 @@ pipeline {
                 sh '''
                     docker run -d --rm --name test_vue -p 8082:80 ${IMAGE_TAG}
                     sleep 5
-                    curl -I http://localhost:8080
+                    curl -I http://localhost:8082
                     docker stop test_vue
                 '''
             }
