@@ -4,7 +4,7 @@ pipeline {
     environment {
         IMAGE = "dodgergo/vue-dashboard"
         DOCKER_CREDENTIALS = credentials('dockerhub-creds')
-        NODEJS_TOOL = 'Node18'
+        NODEJS_TOOL = 'Node16' // Оновлено на Node16
     }
 
     tools {
@@ -21,7 +21,7 @@ pipeline {
 
         stage('Install & Build') {
             steps {
-                echo '🔹 Встановлення залежностей та збірка...'
+                echo '🔹 Встановлення залежностей та збірка Vue...'
                 sh '''
                     npm install
                     npm run build
@@ -32,10 +32,11 @@ pipeline {
         stage('Docker Build') {
             steps {
                 script {
-                    COMMIT = sh(script: 'git rev-parse --short HEAD', returnStdout: true).trim()
+                    // Використовуємо локальне визначення змінної, щоб уникнути warning
+                    def COMMIT = sh(script: 'git rev-parse --short HEAD', returnStdout: true).trim()
                     env.IMAGE_TAG = "${IMAGE}:${COMMIT}"
                 }
-                echo "🔹 Побудова Docker образу з тегом ${IMAGE_TAG}"
+                echo "🔹 Побудова Docker образу з тегом ${env.IMAGE_TAG}"
                 sh 'docker build -t ${IMAGE_TAG} .'
             }
         }
