@@ -23,7 +23,7 @@ pipeline {
             steps {
                 echo '🔹 Встановлення залежностей та збірка...'
                 sh '''
-                    npm ci
+                    npm install
                     npm run build
                 '''
             }
